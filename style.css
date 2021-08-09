@@ -1,0 +1,21 @@
+.about {
+  height: 100%;
+  margin-top: 5rem;
+  padding-bottom: 5rem;
+  padding-top: 2.5rem;
+}
+
+.languages {
+  margin-top: 7.5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 5rem;
+}
+
+.bt1 {
+  color: white;
+}
+
+.contact a {
+  color: inherit;
+  text-decoration: none;
+}
